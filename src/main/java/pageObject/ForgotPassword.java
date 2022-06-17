@@ -25,5 +25,19 @@ public class ForgotPassword {
 	{
 		return driver.findElement(nextButton);
 	}
+	/*public static void get()
+	{
+		System.out.println(""HELO);
+	}
 	
+	lsaglkkfds;
+	sgfoj;jsljg
+	fgj;lfsdj
+	f;g;djs
+	lfsgj;sdjg
+	sfglsdgh
+	assdl;f;agiu
+	jhglsdfh
+	aghlsdfhl
+	*/
 }
